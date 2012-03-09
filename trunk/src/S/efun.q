@@ -1,3 +1,5 @@
+# $Id$
+
 "efun"<-
 function(x, fileout, dir.fileout = get.option("dir.fileout", "C:\\TEMP\\", 
 	"efun"), clobber = F, stamp. = get.option("stamp", format(today()), 

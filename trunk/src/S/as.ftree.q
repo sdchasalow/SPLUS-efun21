@@ -1,3 +1,5 @@
+# $Id$
+
 "as.ftree"<-
 function(x)
 {

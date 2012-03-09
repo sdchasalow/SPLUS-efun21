@@ -1,3 +1,5 @@
+# $Id$
+
 "funcs"<-
 function(where = 1, frame = NULL, pattern)
 {

@@ -1,3 +1,5 @@
+# $Id$
+
 "basename"<-
 function(file, translate = T)
 {

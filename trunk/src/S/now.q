@@ -1,3 +1,5 @@
+# $Id$
+
 "now"<-
 function(out.format = c(dates = "day mon year", times = "h:m:s"))
 {

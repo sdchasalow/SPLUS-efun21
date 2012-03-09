@@ -1,3 +1,5 @@
+# $Id$
+
 "get.option"<-
 function(x, default = NULL, prefix = "automate", label = F)
 {

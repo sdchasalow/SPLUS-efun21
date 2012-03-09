@@ -1,3 +1,5 @@
+# $Id$
+
 "date2"<-
 function(which.fields, sep = " ", iso = F)
 {

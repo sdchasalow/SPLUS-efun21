@@ -1,3 +1,5 @@
+# $Id$
+
 "edwin.open"<-
 function(name)
 {

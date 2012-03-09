@@ -1,3 +1,5 @@
+# $Id$
+
 "make.template"<-
 function(date. = today(), author)
 {

@@ -1,3 +1,5 @@
+# $Id$
+
 "ehelp"<-
 function(object, dir, editor = getenv("EDITOR"))
 {

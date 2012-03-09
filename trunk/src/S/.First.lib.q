@@ -1,3 +1,5 @@
+# $Id$
+
 ".First.lib"<-
 function(library, section)
 {

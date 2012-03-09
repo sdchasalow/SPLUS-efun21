@@ -1,3 +1,5 @@
+# $Id$
+
 "efun.setup"<-
 function(stamp = tod, which.stamp = stamp, dir.fileout = "S_src01\\", 
 	prefix.fileout = "", suffix.fileout = NULL, translate = T, editor = 

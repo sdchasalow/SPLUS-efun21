@@ -1,3 +1,5 @@
+# $Id$
+
 "dfun.default"<-
 function(x, where, efun.record = 1, the.call = match.call(), verbose = T)
 {

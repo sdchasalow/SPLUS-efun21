@@ -1,3 +1,5 @@
+# $Id$
+
 "prfun"<-
 function(funvalue, filename = tempfile2(), filter. = get.option("filter", NULL, 
 	"efun"), prcmd = get.option("prcmd", "notepad", "efun"), opsys, author

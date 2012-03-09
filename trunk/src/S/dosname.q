@@ -1,3 +1,5 @@
+# $Id$
+
 "dosname"<-
 function(x)
 {

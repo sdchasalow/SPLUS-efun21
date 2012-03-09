@@ -1,3 +1,5 @@
+# $Id$
+
 "cfun"<-
 function(x, fileout, dir.fileout = get.option("dir.fileout", "C:\\TEMP\\", 
 	"efun"), silent = F, reverse = T, stamp. = get.option("stamp", format(

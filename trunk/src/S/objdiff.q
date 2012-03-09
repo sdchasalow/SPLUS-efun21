@@ -1,3 +1,5 @@
+# $Id$
+
 "objdiff"<-
 function(x, y, file = tempfile("diff"), command = "fc", multi = T)
 {

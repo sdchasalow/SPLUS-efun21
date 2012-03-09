@@ -1,3 +1,5 @@
+# $Id$
+
 "findstring"<-
 function(pattern, where = 1, objects. = unlist(lapply(where, objects)), num = F
 	)

@@ -1,3 +1,5 @@
+# $Id$
+
 "ftree"<-
 function(x, where = 1, table = unlist(lapply(where, objects)), error.level = 2:
 	1, recursive = T)

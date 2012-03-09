@@ -1,3 +1,5 @@
+# $Id$
+
 "today"<-
 function(out.format = "day mon year")
 {

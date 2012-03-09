@@ -1,3 +1,5 @@
+# $Id$
+
 "checkfile"<-
 function(x, notdir = F, readable = F, writable = F, nonzero = F)
 {

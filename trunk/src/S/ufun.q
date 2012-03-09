@@ -1,3 +1,5 @@
+# $Id$
+
 "ufun"<-
 function(x, assignit = T)
 {

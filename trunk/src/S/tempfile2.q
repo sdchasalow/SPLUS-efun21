@@ -1,3 +1,5 @@
+# $Id$
+
 "tempfile2"<-
 function(pattern = "file", dir = getenv("S_TMP"), translate = T)
 {

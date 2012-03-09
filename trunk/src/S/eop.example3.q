@@ -1,3 +1,5 @@
+# $Id$
+
 "eop.example3"<-
 list(efun.author = "Scott D. Chasalow  (Scott.Chasalow@users.pv.wau.nl)", 
 	efun.dir.fileout = "S_src01\\", efun.editor = structure(.Data = 

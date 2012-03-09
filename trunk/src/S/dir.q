@@ -1,3 +1,5 @@
+# $Id$
+
 "dir"<-
 function(directory = ".", sort.by = c("name", "date"), type = c("all", "files", 
 	"directories"), long = F)

@@ -1,3 +1,5 @@
+# $Id$
+
 "efun.purge"<-
 function(which, where = 1, total = F)
 {

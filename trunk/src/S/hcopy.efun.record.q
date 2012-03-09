@@ -1,3 +1,5 @@
+# $Id$
+
 "hcopy.efun.record"<-
 function(x, filename, verbose = T, print.it = T, unlink.it = print.it, ask = 
 	print.it, ...)

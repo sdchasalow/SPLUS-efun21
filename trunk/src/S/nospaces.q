@@ -1,3 +1,5 @@
+# $Id$
+
 "nospaces"<-
 function(x)
 {

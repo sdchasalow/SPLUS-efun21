@@ -1,3 +1,5 @@
+# $Id$
+
 "mcharmatch2"<-
 function(x, table, merge = F)
 {

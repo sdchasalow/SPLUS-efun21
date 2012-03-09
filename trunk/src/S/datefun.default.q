@@ -1,3 +1,5 @@
+# $Id$
+
 "datefun.default"<-
 function(x, where = 1, ...)
 {

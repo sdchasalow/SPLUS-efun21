@@ -1,3 +1,5 @@
+# $Id$
+
 "head"<-
 function(x, n)
 {

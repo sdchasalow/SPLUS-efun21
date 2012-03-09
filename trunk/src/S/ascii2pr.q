@@ -1,3 +1,5 @@
+# $Id$
+
 "ascii2pr"<-
 function(infile, ...)
 {

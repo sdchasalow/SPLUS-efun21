@@ -1,3 +1,5 @@
+# $Id$
+
 "file.exists"<-
 function(name)
 {

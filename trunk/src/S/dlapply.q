@@ -1,3 +1,5 @@
+# $Id$
+
 "dlapply"<-
 function(X, Y = X, FUN = c, ...)
 {

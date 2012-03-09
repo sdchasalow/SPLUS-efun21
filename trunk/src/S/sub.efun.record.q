@@ -1,3 +1,5 @@
+# $Id$
+
 "[.efun.record"<-
 function(x, ...)
 {

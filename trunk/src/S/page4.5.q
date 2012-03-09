@@ -1,3 +1,5 @@
+# $Id$
+
 "page4.5"<-
 function(x, pager = options()$pager, filename, multi = T, remove.file = F, ...
 	)

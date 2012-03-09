@@ -1,3 +1,5 @@
+# $Id$
+
 "prompt.default"<-
 function(object, dir, where = 1)
 {

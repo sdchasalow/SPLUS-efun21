@@ -1,3 +1,5 @@
+# $Id$
+
 "summary.function"<-
 function(x, where, where.calling = where, sortit.called = T)
 {

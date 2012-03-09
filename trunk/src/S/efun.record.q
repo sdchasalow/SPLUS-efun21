@@ -1,3 +1,5 @@
+# $Id$
+
 "efun.record"<-
 function(where = 1, which.stamp, silent = F, all.entries = F)
 {

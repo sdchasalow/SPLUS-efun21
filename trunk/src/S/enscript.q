@@ -1,3 +1,5 @@
+# $Id$
+
 "enscript"<-
 function(infile, outfile = tempfile2(...), title. = NULL, op.title = "-b", 
 	options. = "-2rG -MA4 -L62", printer = getenv("PRINTER"), path = 

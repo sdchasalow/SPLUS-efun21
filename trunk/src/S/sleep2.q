@@ -1,3 +1,5 @@
+# $Id$
+
 "sleep2"<-
 function(n = 0, units = c("seconds", "minutes", "hours", "days"))
 {

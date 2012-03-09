@@ -1,3 +1,5 @@
+# $Id$
+
 "print.ftree"<-
 function(x, prefix = "", indent = 5, ...)
 {

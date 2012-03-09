@@ -1,3 +1,5 @@
+# $Id$
+
 "ftree.slave"<-
 function(x, table, error.level, recursive)
 {

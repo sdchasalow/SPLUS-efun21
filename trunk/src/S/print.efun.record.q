@@ -1,3 +1,5 @@
+# $Id$
+
 "print.efun.record"<-
 function(x, pager = options()$pager, ...)
 {

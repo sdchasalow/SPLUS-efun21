@@ -1,3 +1,5 @@
+# $Id$
+
 "library3.3"<-
 function(section = NULL, first = F, help = NULL, lib.loc = paste(getenv("SHOME"
 	), "library", sep = "\\"))

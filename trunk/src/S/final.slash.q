@@ -1,3 +1,5 @@
+# $Id$
+
 "final.slash"<-
 function(x, translate = T, empty.string = F)
 {

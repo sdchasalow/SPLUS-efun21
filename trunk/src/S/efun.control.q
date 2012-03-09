@@ -1,3 +1,5 @@
+# $Id$
+
 "efun.control"<-
 function(editor = get.option("editor", getenv("S_EDITOR"), "efun"), 
 	prefix.fileout = get.option("prefix.fileout", "efun", "efun"), 

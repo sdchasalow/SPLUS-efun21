@@ -1,3 +1,5 @@
+# $Id$
+
 "datefun.efun.record"<-
 function(x, where = 1, ...)
 {

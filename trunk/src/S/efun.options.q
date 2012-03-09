@@ -1,3 +1,5 @@
+# $Id$
+
 "efun.options"<-
 function(...)
 {
